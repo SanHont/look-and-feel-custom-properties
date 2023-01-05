@@ -1,12 +1,3 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+![image](https://user-images.githubusercontent.com/112860052/210557834-e13186e4-8e20-480d-9553-48a47c3cfde0.png)
 
-# Naam deeltaak
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+Sinds een tijdje maak ik ook gebruik van custom properties, dit maakt het voor mij een stuk makkelijker om
