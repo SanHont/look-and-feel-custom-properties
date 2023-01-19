@@ -3,3 +3,5 @@
 
 Sinds een tijdje maak ik ook gebruik van custom properties, dit maakt het voor mij een stuk makkelijker om mijn code te schrijven.
 Hierdoor hoef ik niet steeds de zelfde stukken code uit te schrijven en als het nodig zou zijn kan ik ook gelijk het in de root aanpassen en wordt het vervolgens in het hele document ook aangepast.
+
+Ook gebruik ik media queries zodat de website responsive wordt. In de wiki staat iets uitgebreider beschreven hoe en wat.
